@@ -1,15 +1,15 @@
-# # Print
-# print("Hello World!")
-# print ("Hello World\nHello World\nHello World")
-# print("Hello" + " " + "ToTo")
+# Print
+print("Hello World!")
+print ("Hello World\nHello World\nHello World")
+print("Hello" + " " + "ToTo")
 
-# # Input
-# print("Hello " + input("What is your name? ") + "!")
+# Input
+print("Hello " + input("What is your name? ") + "!")
 
-# # Variables
-# username = input("What is your name? ")
-# name_length = len(username)
-# print(name_length)
+# Variables
+username = input("What is your name? ")
+name_length = len(username)
+print(name_length)
 
 """
 Variable names:
