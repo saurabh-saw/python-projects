@@ -63,7 +63,8 @@ print(round(3.14159, 2)) # 3.14
 
 # Assignment
 # pos = pos + neg
-print(pos += neg)
+pos += neg
+print(pos)
 
 # f-string for combining different data types
 score = 0
